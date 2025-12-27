@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai_visibility",
+    "name": "AI Visibility",
+    "score": 72,
+    "insights": ["Mentioned in 68% of AI responses"],
+    "issues": ["Low Gemini citations"],
+    "recommendations": ["Improve entity authority"]
+  },
+  {
+    "id": "eeat",
+    "name": "Trust & EEAT",
+    "score": 65,
+    "insights": ["Weak author credibility"],
+    "issues": ["Low citation trust"],
+    "recommendations": ["Add expert authorship"]
+  }
+]
